@@ -2,7 +2,7 @@
 
 [2026]{.blue}
 
-**JSM 2026**, Boston, MA, August — *Multi-Study Mediation Analysis: Identifiability, Replicability, and Unmeasured Confounding* — [Contributed talk]{.gyellow}
+**JSM 2026**, Boston, MA, August — *Multi-Study Mediation Analysis* — [Contributed talk]{.gyellow}
 
 ---
 
