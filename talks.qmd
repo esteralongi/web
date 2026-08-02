@@ -2,7 +2,9 @@
 
 [2026]{.blue}
 
--   **JSM 2026**, Boston, MA — *Multi-Study Mediation Analysis: Identifiability, Replicability, and Unmeasured Confounding* — [Contributed talk]{.gyellow}
+**JSM 2026**, Boston, MA — *Multi-Study Mediation Analysis: Identifiability, Replicability, and Unmeasured Confounding* — [Contributed talk]{.gyellow}
+
+---
 
 :::::: {layout="[35, 65]"}
 ::: {}
@@ -13,17 +15,23 @@
 :::
 ::::::
 
--   **Psicostat**, Padova, Italy — *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets* — [Contributed talk]{.gyellow}
+---
 
-:::::: {layout="[35, 65]"}
-::: {}
-![](images/acic2026.jpg)
-:::
+**Psicostat**, Padova, Italy — *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets* — [Contributed talk]{.gyellow}
+
+---
+
+:::::: {layout="[65, 35]"}
 ::: {}
 **ACIC 2026**, Salt Lake City, UT — *Validating Causal Mechanisms through Replicability: A Unified Bayesian Framework for Mediation Analysis* — [Poster]{.ggreen}
 :::
+::: {}
+![](images/acic2026.jpg)
+:::
 ::::::
+
+---
 
 [2025]{.blue}
 
--   **SIS 2025**, Genova, Italy — *Surveillance of fraudulent activities through dynamic networks* — [Contributed talk]{.gyellow}
+**SIS 2025**, Genova, Italy — *Surveillance of fraudulent activities through dynamic networks* — [Contributed talk]{.gyellow}
