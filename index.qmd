@@ -1,65 +1,29 @@
 ---
-title: "Alessandro Zito"
-subtitle: "Postodoctoral researcher at Harvard Biostatistics and Dana-Farber cancer institute"
+title: "Ester Alongi"
+subtitle: "PhD Candidate in Statistical Science · University of Padua"
 page-layout: full
 about:
   template: trestles
   image-width: 20em
-  image: images/Ale2.jpg
+  image: images/Photo Ester Alongi.jpg
   image-shape: round
   links:
-    - icon: journal-text
-      text: "Curriculum vitae"
-      href: web/files/resume_alezito.pdf 
-#    - icon: envelope-at
-#      text: "Email address"
-#      href: "mailto: azito@hsph.harvard.edu"
-#    - icon: google
-#     text: "Google scholar"
-#      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
-#    - icon: github
-#      text: "Github"
-#      href: https://github.com/alessandrozito
-#    - icon: linkedin
-#      text: "Linkedin"
-#      href: https://www.linkedin.com/in/alessandro-zito-92b250153/
-#    - icon: researchgate
-#      text: "ResearchGate"
-#      href: https://www.researchgate.net/profile/Alessandro-Zito-7
-#    - icon: orcid-id
-#      text: "Orcid"
-#      href: https://orcid.org/0000-0001-8515-6503
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/esteralongi
+    - icon: envelope-at
+      text: "Email"
+      href: "mailto:ester.alongi@phd.unipd.it"
 ---
 
 ## About me
 
 Welcome to my website!
 
-I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I am also affiliated with the Data Sciences department at the [Dana-Farber cancer institute](https://www.dana-farber.org/research/departments-centers/data-science).
+My name is Ester Alongi. I am a second-year PhD candidate in Statistical Science at the [University of Padua](https://www.unipd.it/), supervised by [Gianmarco Altoè](https://www.dpss.unipd.it/altoe-gianmarco/home). I completed my Bachelor's degree in Statistics at the University of Milano-Bicocca and my Master's degree in Statistics at the University of Padua, under the supervision of Bruno Scarpa.
 
-I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina, where I worked under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
+I am currently a visiting researcher at the [Dana-Farber Cancer Institute](https://www.dana-farber.org/) and at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), working under [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
 
-My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
+My research focuses on the methodological side of statistics, with current interests in replicability, Bayesian analysis, causal inference and mediation analysis, and applications to psychological and genomics research.
 
-[E-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
-
-My research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology. 
-
-
-## Current highlights
-
-[I received the Savage Award in Applied Methodology]{.gblue} for my dissertation "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" :) 
-
-[I am an elected official of j-ISBA]{.gred} Looking forward to help the community of young Bayesians across all continents!
-
-------------------------------------------------------------------------
-
-```{=html}
-<!--
-### News
-
-//\[[August 2024]{.blue}\] My postdoc advisor Jeff Miller will be presenting *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* at the IMS conference in Berlin.
-
-\[[July 2024]{.blue}\] I presented my work *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors* (poster) and *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics.
--->
-```
+**E-mail** — ester.alongi\@phd.unipd.it

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Highlights\nIn my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.\n\n\nR-packages\n\n\n\n\n\n\n\n\n\n\n\nBayesANT - BAYESiAn Nonparametric Taxonomic classifier\nBayesANT is a DNA barcoding algorithm to classify DNA sequences within a hierarchical taxonomy, while allowing novel species to be discovered in the test set. See Zito, Rigon, Dunson (2023) MEE.\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPvegan - Bayesian nonparametric methods for ecologists\nBNPvegan is an R-package that implements the methods described in Zito, Rigon, Ovaskainen and Dunson (2023) JASA\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConjugateDP - random number generator for the Stirling-gamma distribution\nConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in Zito, Rigon, Dunson (2024) BA\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompressiveNMF - Bayesian non-negative matrix factorization for mutational signature analysis\nThis repo contains the code to reproduce the empirical results in Zito and Miller (2024+) arXiv\nGitHub\n\n\n\n\n\n\nOther projects\n\n\n\n\n\n\n\n\n\n\n\nProximity - Pareto optimal proxy metrics\nThis repo contains the code to reproduce the empirical results in Richarson et al. (2023), arXiv\nProperty of Google LLC :)\n\n\n\n\n\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Alessandro Zito",
@@ -14,46 +7,74 @@
     "text": "Curriculum vitae Linkedin\n\nAcademic positions\n\n\n\n\n\n\n\n\n\nHarvard T.H. Chan School of Public Health, Department of Biostatistics, Boston, MA, U.S.A.\n\nPostodoctoral research fellow. September 2023 – current\nSupervisors: Jeffrey W. Miller and Giovanni Parmigiani.\nAs of May 2025, I am also a Postdoctoral fellow at the Department of Data Sciences at the Dana Farber Cancer Institute\n\n\n\n\n\n\n\nWork experience\n\n\n\n\n\n\n\n\n\nGoogle LLC, San Bruno, CA, U.S.A.\n\nIntern at the Youtube Data Science Team, Summer 2022.\nInternship mentors: Lee Richardson and Jacopo Soriano.\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenerali Italia S.p.A., Milan, Italy.\n\nIntern at the Advanced Analytics Solutions team, June 2018 – July 2019.\nSupervised by Massimo Natale. Team lead by Davide Consiglio.\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDuke University, Department of Statistical Science, NC, U.S.A.\n\nPh.D. in Statistical Science, August 2019 – September 2023.\nAdvisor: Professor David B. Dunson\nCo-advisor: Tommaso Rigon\nDisseration: Ecological modeling via Bayesian nonparametric species sampling priors. Link pdf Slides\n\n\n\n\n\n\n\n\n\n\n\n\n\nBocconi University, Milan, Italy.\n\nMaster’s degree in Economics and Social Sciences, September 2016 – March 2019.\nGraduation grade: 110 cum laude\nFinal thesis: Conjugate Fractional Factorial Thompson Sampling via unified skew-normal, with Daniele Durante [pdf]\n\n\n\n\n\n\n\n\n\n\n\n\n\nBocconi University, Milan, Italy.\n\nBachelor’s degree in Economics and Social Sciences, September 2013 – September 2016.\nGraduation grade: 110 cum laude\nExchange program at The University of Chicago, Department of Economics, Fall 2015.\nResearch assistant at The University of Chicago, Department of Economics, Summer 2016, with Melissa Tartari\n\n\n\n\n\n\n\nAwards\n\n[2025]: Travel grant (on competitive basis) for the BNP14, Los Angeles, CA, USA. \n[2024]: Savage Award in Applied Methodology \n[2023]: PQG travel award, Harvard T.H. Chan School of Public Health. \n[2022]: BEST award for Ph.D. Student Research for the paper Bayesian modeling of sequential discoveries, Department of Statistical Science, Duke University. \n[2022]: Poster award at the 2022 ISBA World Meeting, Montreal, Canada. \n[2022]: Travel grant (on competitive basis) for the 2022 ISBA World Meeting, Montreal, Canada. \n[2021]: Ph.D. Teaching assistant of the Year, Department of Statistical Science, Duke University. \n[2021]: Best Postdoc/Student paper award at the 2021 ISBA World Meeting, held online. \n[2016–2019]: Bocconi Merit Award Scholarship (full tuition covered, ~$12.000 per year).\n\n\n\n\nTeaching experience\n\n[Spring 2023] - Teaching assistant, STA440 - Case Studies in the Practice of Statistics (undergraduate). Instructor: Amy Herring. Duke University.\n[Fall 2021] - Teaching assistant, STA610 - Hiearchical models (graduate). Instructor: Olanrewaju (Michael) Akande. Duke University.\n[Fall 2020] - Teaching assistant, STA601 - Bayesian statistics (graduate). Instructor: David B. Dunson. Duke University. Recipient of the 2021 Ph.D. Teaching assistant of the Year.\n[Spring 2020] - Teaching assistant, STA360 - Bayesian statistics (undergraduate). Instructor: Simon Mak. Duke University.\n[2016-2018] - Instructor at TEST WE CAN srl - a complete coursework designed to prepare high school students for the Bocconi admission test.\n\n\n\nEditorial and Referee work\n\nI have served as reviewer for the following journals: Journal of the American Statistical Association (1), Journal of Computational and Graphical Statistics (1), Journal of Machine Learning Research (1), Electronic Journal of Statistics (2), Bayesian Analysis (2), Ecography (1), Philosophical transactions of the Royal Society A (1), Computational Statistics & Data Analysis (2). The American Statistician (1), PeerJ (1)\nI have been a reviewer for the SBSS Student Paper competition award at JSM2025\n\n\n\nService to the community\n\n[2025-2027], Treasurer in the j-ISBA board. Duties so far:\n\nPart of the Scientific committee for BAYSM 2025 (held online)\nLead organizer of the 2025 Blackwell-Rosembluth award (UTC-)\nOrganizer of BAYSM 2025 (online) and BAYSM 2026 (Nagoya, Japan).\n\n\n\n\nSkills\n\nProgramming Languages: R, Python, C++, LaTex\nLanguages: Italian (mothertongue), English, Spanish.\n\n\n\nInterests and activities\n\nRunning. 2024 Philadelphia Marathon closed in 3:54!\nPainting. See here\nMusic. Bass player of Project 42, a Harvard Data Science Initiative aimed at fusing music with art and data science.\nFormer actor, semi-professional level.\n\n\n\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
   },
   {
+    "objectID": "artwork.html",
+    "href": "artwork.html",
+    "title": "A gallery of my paitings",
+    "section": "",
+    "text": "I have been a painter since 2017, after the stimulating encounter with professional painter Guido Buganza.\nIn 2018, I have won the “Looking for Art” paiting contest, which allowed me to exibithion my paintings at Milan “La Triennale”. In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan)."
+  },
+  {
+    "objectID": "artwork.html#monologues-actors-on-actors",
+    "href": "artwork.html#monologues-actors-on-actors",
+    "title": "A gallery of my paitings",
+    "section": "Monologues (actors on actors)",
+    "text": "Monologues (actors on actors)\nSome portraits of my actor friends. This was part of a personal exhibition back in 2019.\n\n\n\n\n\n\nValentina. 90x100cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nMarta. 50x60cm. Oil on canvas, 2019. My actual cousin!\n\n\n\n\n\n\n\n\n\n\n\nMarco. 15x20cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nValentina. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nHelena. 15x20cm. Oil on canvas, 2019"
+  },
+  {
+    "objectID": "artwork.html#portraits-inspired-by-my-family",
+    "href": "artwork.html#portraits-inspired-by-my-family",
+    "title": "A gallery of my paitings",
+    "section": "Portraits inspired by my family",
+    "text": "Portraits inspired by my family\n\n\n\n\n\n\nLina la cicala. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nPietro di moccafava. 50x70cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nThe climber. 50x70cm. Oil on canvas, 2020"
+  },
+  {
+    "objectID": "artwork.html#still-lives-many-bottles",
+    "href": "artwork.html#still-lives-many-bottles",
+    "title": "A gallery of my paitings",
+    "section": "Still lives (many bottles)",
+    "text": "Still lives (many bottles)\n\n\n\n\n\n\nBottles. 20x15cm. Oil on canvas, 2021\n\n\n\n\n\n\n\nBottles. 25x30cm. Oil on canvas, 2018\n\n\n\n\n\n\n\nBottles. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\n\n\n\n\nCeramics. 18x13cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nAsparagus cooker 30x40cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nApples. 30x20cm. Oil on canvas, 2020"
+  },
+  {
+    "objectID": "artwork.html#some-random-paintings",
+    "href": "artwork.html#some-random-paintings",
+    "title": "A gallery of my paitings",
+    "section": "Some random paintings",
+    "text": "Some random paintings\n\n\n\n\n\n\nBoxeuer 15x20cm. Oil on canvas, 2022\n\n\n\n\n\n\n\nNella. 10x10cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nNella. 25x30cm. Oil on canvas, 2023\n\n\n\n\n\n\n\n\n\n\n\nVittorio’s shoes. 10x12cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nTrainee and master. 13x18cm. Oil on canvas, 2020.\n\n\n\n\n\n\n\nFlowers. 13x18cm. Oil on canvas, 2020\n\n\n\n\n\n\n\n\n\n\n\nFox and violin. 20x30cm. Oil on canvas, 2020. A painting for a friend"
+  },
+  {
+    "objectID": "artwork.html#early-oil-works",
+    "href": "artwork.html#early-oil-works",
+    "title": "A gallery of my paitings",
+    "section": "Early oil works",
+    "text": "Early oil works\n\n\n\n\n\n\nThe musicians. 60x80cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nUnfinished Peonies. 20x25cm. Oil on canvas, 2020\n\n\n\n\n\n\n\nComposizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas. 2018\n\n\n\n\n\n\n\n\n\n\n\nLights. 13x18cm. Oil on chalkboard\n\n\n\n\n\n\n\nBottles for a friend. 15x20cm. Oil on canvas. 2019"
+  },
+  {
+    "objectID": "artwork.html#studies-of-famous-paitings",
+    "href": "artwork.html#studies-of-famous-paitings",
+    "title": "A gallery of my paitings",
+    "section": "Studies of famous paitings",
+    "text": "Studies of famous paitings\n\n\n\n\n\n\nReproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based\n\n\n\n\n\n\n\nStudy of Tiziano - Trionfo di Bacco e Arianna. 60x70cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nStudy of Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!\n\n\n\n\n\n\n\nStudy of Lucian Freud - Boy smoking. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nStudy of Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem. 13x18cm. Oil on canvas, 2020\n\n\n\n\n\n\n\n\n\n\n\nStudy on Chardin. 30x40cm. Oil on canvas, 2018."
+  },
+  {
+    "objectID": "artwork.html#acrilyics",
+    "href": "artwork.html#acrilyics",
+    "title": "A gallery of my paitings",
+    "section": "Acrilyics",
+    "text": "Acrilyics\n\n\n\n\n\n\nA fall, a mother, a light. 40x50cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\nStudy on Rembrandt. 30x40cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nShouting girl. 70x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nExploring girl. 90x90cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nRejoicing girl. 70x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\n\n\n\n\nSailing girl. 50x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nThird girl. 50x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nSmoking girl. 50x70cm. Acrylic on canvas\n\n\n\n\n\n\n\n\n\n\n\nInspiration from Mirò. 40x50cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nTime goes by. 60x80cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\nAnother inspiration from Mirò. 50x50cm. Acrylic on canvas, 2017"
+  },
+  {
+    "objectID": "artwork.html#others-drawings-engravings",
+    "href": "artwork.html#others-drawings-engravings",
+    "title": "A gallery of my paitings",
+    "section": "Others (drawings + engravings)",
+    "text": "Others (drawings + engravings)\n\n\n\n\n\n\nBunny. 10x12cm. Drypoint on plexiglass, 2021\n\n\n\n\n\n\n\nDog. 10x12cm. Drypoint on plexiglass, 2021\n\n\n\n\n\n\n\nDurher’s hands. 25x30cm. Pencil. 2020"
+  },
+  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Alessandro Zito",
     "section": "",
     "text": "List of talks and presentations\n2025\n\nJSM2025, Nashville, TN - Ecological Modeling via Bayesian Nonparametric Species Sampling Priors - Invited talk - The Savage Dissertation Award.\nBNP14, Los Angeles, CA - Topography-dependent mutational signature analysis via Poisson process factorization - Contributed talk\nENAR2025, New Orleans, LA - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Contributed talk\nBrown University, Data Science Initiative, Providence, RI, USA - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Invited seminar Video\n\n2024\n\nCattolica University of the Sacred Hearth, Milan, Italy - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Invited seminar\nICSDS2024, Nice, France - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Contributed talk\nISBA2024, Venice, Italy - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Invited talk\nISBA2024, Venice, Italy - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Poster\n\n2023\n\nCMstat2023, Berlin, Germany - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\nEcoSta2023, Tokyo, Japan - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\nNESS2023, Boston, MA, USA - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\n\n2022\n\nCMstat2022, London, UK - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Invited talk\nBNP13, Puerto Varas, Chile - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Poster\nISBA2022, Montreal, Canada - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Poster\nLuomos SYKE Machine Learning seminar II, Virtual - Taxonomic classification methods for DNA sequences. - Contributed talk\n\n2021\n\nISBA2021, virtual - Bayesian modeling of sequential discoveries. - Contributed talk\nISBA2021, virtual - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Contributed talk\n\n\n\n\nSessions organized and chaired\n\nJSM2025, Nashville, TN. Organizer and chair of Advances in Bayesian Facotrization methods in Genomics and Medicine, invited session . Speakers:\n\nAdolphus Wagala, Dana-Farber Cancer Institute - Bayesian boolean matrix factorization for copy number alterations in multiple myeloma.\nJonathan Huggins, Boston Univeristy - Structurally aware robust rank selection for probabilistic matrix factorization.\nSarah Urbut, Broad Institute &lt;– Replaced by me.\nNiccolo Anceschi, Duke University - Spectral decomposition-assisted multi-study factor analysis.\nDiscussion by Peter Carbonetto, The University of Chicago University.\n\nISBA2024, Venice, Italy. Organizer and chair of Bayesian methods in Ecology, invited session . Speakers:\n\nBokgyeong Kang, Duke University - Analyzing whale calls through Hawkes processes modeling.\nMichele Peruzzi, University of Michigan - Bayesian multi-species N-mixture models for large scale spatial data in community ecology.\nNarmadha M. Mohankumar, Pacific Northwest National Lab. - Using machine learning to model nontraditional spatial dependence in occupancy data.\n\n\n\n\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
-  },
-  {
-    "objectID": "temp/cv.html",
-    "href": "temp/cv.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Curriculum vitae Linkedin\n\nAcademic positions\n\n\n\n\n\n\n\n\n\nHarvard T.H. Chan School of Public Health, Department of Biostatistics, Boston, MA, U.S.A.\n\nPostodoctoral research fellow. September 2023 – current\nSupervisors: Jeffrey W. Miller and Giovanni Parmigiani.\n\n\n\n\n\n\n\nWork experience\n\n\n\n\n\n\n\n\n\nGoogle LLC, San Bruno, CA, U.S.A.\n\nIntern at the Youtube Data Science Team, Summer 2022.\nInternship mentors: Lee Richardson and Jacopo Soriano.\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenerali Italia S.p.A., Milan, Italy.\n\nIntern at the Advanced Analytics Solutions team, June 2018 – July 2019.\nSupervised by Massimo Natale. Team lead by Davide Consiglio.\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDuke University, Department of Statistical Science, NC, U.S.A.\n\nPh.D. in Statistical Science, August 2019 – September 2023.\nAdvisor: Professor David B. Dunson\nCo-advisor: Tommaso Rigon\nDisseration: Ecological modeling via Bayesian nonparametric species sampling priors. Link pdf Slides\n\n\n\n\n\n\n\n\n\n\n\n\n\nBocconi University, Milan, Italy.\n\nMaster’s degree in Economics and Social Sciences, September 2016 – March 2019.\nGraduation grade: 110 cum laude\nFinal thesis: Conjugate Fractional Factorial Thompson Sampling via unified skew-normal, with Daniele Durante [pdf]\n\n\n\n\n\n\n\n\n\n\n\n\n\nBocconi University, Milan, Italy.\n\nBachelor’s degree in Economics and Social Sciences, September 2013 – September 2016.\nGraduation grade: 110 cum laude\nExchange program at The University of Chicago, Department of Economics, Fall 2015.\nResearch assistant at The University of Chicago, Department of Economics, Summer 2016, with Melissa Tartari\n\n\n\n\n\n\n\nAwards\n\n[2023]: PQG travel award, Harvard T.H. Chan School of Public Health.\n[2022]: BEST award for Ph.D. Student Research for the paper Bayesian modeling of sequential discoveries, Department of Statistical Science, Duke University.\n[2022]: Poster award at the 2022 ISBA World Meeting, Montreal, Canada.\n[2022]: Travel grant (on competitive basis) for the 2022 ISBA World Meeting, Montreal, Canada.\n[2021]: Ph.D. Teaching assistant of the Year, Department of Statistical Science, Duke University.\n[2021]: Best Postdoc/Student paper award at the 2021 ISBA World Meeting, held online.\n[2016–2019]: Bocconi Merit Award Scholarship (full tuition covered).\n\n\n\n\nTeaching experience\n\n[Spring 2023] - Teaching assistant, STA440 - Case Studies in the Practice of Statistics (undergraduate). Instructor: Amy Herring. Duke University.\n[Fall 2021] - Teaching assistant, STA610 - Hiearchical models (graduate). Instructor: Olanrewaju (Michael) Akande. Duke University.\n[Fall 2020] - Teaching assistant, STA601 - Bayesian statistics (graduate). Instructor: David B. Dunson. Duke University. Recipient of the 2021 Ph.D. Teaching assistant of the Year.\n[Spring 2020] - Teaching assistant, STA360 - Bayesian statistics (undergraduate). Instructor: Simon Mak. Duke University.\n\n\n\nEditorial work\n\nI have served as reviewer for the following journals: Electronic Journal of Statistics, Bayesian Analysis, Ecography, Philosophical transactions of the Royal Society A, Computational Statistics & Data Analysis.\n\n\n\nSkills\n\nProgramming Languages: R, Python, C++, LaTex\nLanguages: Italian (mothertongue), English, Spanish.\n\n\n\nInterests and activities\n\nRunning. I am preparing the 2024 Philadelphia marathon!\nPainting. See here\nMusic. Bass player of The Bayesment Project\nFormer actor, semi-professional level."
-  },
-  {
-    "objectID": "temp/talks.html",
-    "href": "temp/talks.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "List of talks and presentations\n2024\n\nISBA2024, Venice, Italy - Compressive Bayesian non-negative matrix factorization for mutational signature analysis. - Invited talk\nISBA2024, Venice, Italy - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Poster\n\n2023\n\nCMstat2023, Berlin, Germany - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\nEcoSta2023, Tokyo, Japan - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\nNESS2023, Boston, MA, USA - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Invited talk\n\n2022\n\nCMstat2022, London, UK - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Invited talk\nBNP13, Puerto Varas, Chile - Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. - Poster\nISBA2022, Montreal, Canada - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Poster\nLuomos SYKE Machine Learning seminar II, Virtual - Taxonomic classification methods for DNA sequences. - Contributed talk\n\n2021\n\nISBA2021, virtual - Bayesian modeling of sequential discoveries. - Contributed talk\nISBA2021, virtual - Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. - Contributed talk"
-  },
-  {
-    "objectID": "temp/research.html",
-    "href": "temp/research.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "I sam strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusion.\nMys current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis.\nDuring my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor David Dunson within Project LIFEPLAN, an international research group whose aim is to quantify biodiversity across the globe.\nPh.D. Dissertation Ph.D. defense slides Google Scholar"
-  },
-  {
-    "objectID": "temp/research.html#research-highlights",
-    "href": "temp/research.html#research-highlights",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "I sam strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusion.\nMys current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis.\nDuring my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor David Dunson within Project LIFEPLAN, an international research group whose aim is to quantify biodiversity across the globe.\nPh.D. Dissertation Ph.D. defense slides Google Scholar"
-  },
-  {
-    "objectID": "temp/research.html#publications-and-manuscripts",
-    "href": "temp/research.html#publications-and-manuscripts",
-    "title": "Alessandro Zito",
-    "section": "Publications and manuscripts",
-    "text": "Publications and manuscripts\n\nPreprints\n\nZito, A. and Miller, J. W. (2024+). Compressive Bayesian non-negative matrix factorization for mutational signature analysis. Submitted, awaiting decision. [ArXiv] [GitHub]\nLee, C. J., Zito, A., Sang, H., and Dunson, D. B. (2024+). Logistic-Beta Processes for dependent random probabilities with beta marginals. Submitted, awaiting decision. [ArXiv] [GitHub]\nZito, A., Rigon, T., and Dunson, D. B. (2023+). Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. Submitted major revision, awaiting decision. [ArXiv] [R Package]\nRichardson, L.*, Zito, A.*, Greaves, D., and Soriano, J. (2023+). Pareto optimal proxy metrics. Received major revision. [ArXiv]\n\n\n\n\nArticles in refereed journals\n\nZito, A., Rigon, T., and Dunson, D. B. (2023). Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. Methods in Ecology and Evolution, 14, 529–542. [Pub] [ArXiv] [Code] [R package]. Best poster award at IBSA2022 world meeting.\nZito, A., Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). Bayesian modeling of sequential discoveries. Journal of the American Statistical Association (T&M), 118(544), 2521–2532. [Pub] [Manuscript] [R package] Best Student/Postdoc Contributed paper award at IBSA2021 world meeting. BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University\n\n\n\nRefereed conference proceedings\n\nZito, A., Rigon, T. and Dunson, D. B. (2021). Modelling of accumulation curves through Weibull survival functions. In Book of Short Papers of the Italian Statistical Society 2021 (Perna, C., Salvati, N. and Schirripa Spagnolo, F., editors). ISBN: 9788891927361. [Link part 1] [Link part 2]\n\n\n\n\nManuscripts in preparation\n\nZito, A., Xue, C., Parmigiani, G., and Miller, J. W. (2024+). Localized mutational signature analysis via inhomogenoeus Poisson process factorization.\nZito, A., Parmigiani, G., Miller, J. W. and Samur, M. (2024+). Mutational signature analysis of RNA somatic mutations.\nZito, A., Rigon T. and Dunson D. B. (2024+). The Antoniak exponential family for generalized linear models.\nOrsholm, J.*, Zito, A.*, Chazlot, N, Roslin, T. and Furneaux, B. (2024+). Comparing model performance for taxonomic classification of unknown DNA barcodes."
   },
   {
     "objectID": "research.html",
@@ -84,255 +105,31 @@
     "text": "Co-authors and collaborators\n\n\nBiostatistics and cancer biology\n\n - Jeffrey W. Miller, Harvard University. Postdoc advisor\n\n - Giovanni Parmigiani, Harvard University, Dana-Farber Cancer institute. Postdoc advisor\n\n - Mehmet K. Samur, Harvard University, Dana-Farber cancer institute. Postdoc benefactor:)\n\n - Catherine Xue, Former Harvard Ph.D. student now working at Takeda.\n\n\n\nBayesian nonparametrics\n\n - David B. Dunson, Duke University. Ph.D. advisor\n\n - Tommaso Rigon, University of Milano-Bicocca. Ph.D. co-advisor\n\n - Changwoo J. Lee, Duke University.\n\n - Huiyan Sang, Texas A&M University.\n\n\n\nBioinformatics and Ecology\n\n - Otso Ovaskainen, University of Jyvaskyla.\n\n - Johanna Orsholm, Swedish University of Agricultural Sciences.\n\n - Brendan Furneaux, University of Jyvaskyla.\n\n - Tomas Roslin, Swedish University of Agricultural Sciences.\n\n - Nicolas Chazot, Swedish University of Agricultural Sciences.\n\n\n\nA/B testing and industry applications\n\n - Jacopo Soriano, Google.\n\n - Lee Richardson, Google.\n\n - Dylan Greaves, Google.\n\n\n\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
   },
   {
-    "objectID": "temp/colabs.html",
-    "href": "temp/colabs.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Co-authors and collaborators\n\n\nBiostatistics and cancer biology\n\n - Jeffrey W. Miller, Harvard University. Main postdoc advisor\n\n - Giovanni Parmigiani, Harvard University, Dana-Farber Cancer institute. Postdoc advisor\n\n - Mehmet K. Samur, Harvard University, Dana-Farber cancer institute.\n\n - Catherine Xue, Harvard University.\n\n\n\nBayesian nonparametrics\n\n - David B. Dunson, Duke University. Ph.D. advisor\n\n - Tommaso Rigon, University of Milano-Bicocca. Ph.D. co-advisor\n\n - Changwoo J. Lee, Duke University.\n\n - Huiyan Sang, Texas A&M University.\n\n\n\nBioinformatics and Ecology\n\n - Otso Ovaskainen, University of Jyvaskyla.\n\n - Johanna Orsholm, Swedish University of Agricultural Sciences.\n\n - Brendan Furneaux, University of Jyvaskyla.\n\n - Tomas Roslin, Swedish University of Agricultural Sciences.\n\n - Nicolas Chazot, Swedish University of Agricultural Sciences.\n\n\n\nA/B testing and industry applications\n\n - Jacopo Soriano, Google.\n\n - Lee Richardson, Google.\n\n - Dylan Greaves, Google."
-  },
-  {
-    "objectID": "temp/Disclaimer/index.html",
-    "href": "temp/Disclaimer/index.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Opinions expressed on this Site are the author’s own in his personal capacity. They do not reflect the views of any organisation, company he is associated with."
-  },
-  {
-    "objectID": "temp/index.html",
-    "href": "temp/index.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Welcome to my website!\nI am a Postdoctoral research fellow in Biostatistics at the Harvard T.H. Chan School of Public Health, where I am supervised by Professor Jeffrey W. Miller and Professor Giovanni Parmigiani.\nI obtained my Ph.D. in Statistical Science at Duke University, in North Carolina. Prior to living in the United States in 2019, I studied Economics at Bocconi University, in Milan, Italy.\nMy curriculum vitae is available here. A complete list of publications is available here.\nE-mail - azito@hsph.harvard.edu\nResearch interests - Bayesian statistics, Bayesian nonparametrics, Bioinformatics, Cancer genomics, Factor models, Mutational signature analysis.\n\n\n\n[August 2024] My postdoc advisor Jeff Miller will be presenting Compressive Bayesian non-negative matrix factorization for mutational signature analysis at the IMS conference in Berlin.\n[July 2024] I presented my work Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors (poster) and Compressive Bayesian non-negative matrix factorization for mutational signature analysis (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics."
-  },
-  {
-    "objectID": "temp/index.html#about-me",
-    "href": "temp/index.html#about-me",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Welcome to my website!\nI am a Postdoctoral research fellow in Biostatistics at the Harvard T.H. Chan School of Public Health, where I am supervised by Professor Jeffrey W. Miller and Professor Giovanni Parmigiani.\nI obtained my Ph.D. in Statistical Science at Duke University, in North Carolina. Prior to living in the United States in 2019, I studied Economics at Bocconi University, in Milan, Italy.\nMy curriculum vitae is available here. A complete list of publications is available here.\nE-mail - azito@hsph.harvard.edu\nResearch interests - Bayesian statistics, Bayesian nonparametrics, Bioinformatics, Cancer genomics, Factor models, Mutational signature analysis.\n\n\n\n[August 2024] My postdoc advisor Jeff Miller will be presenting Compressive Bayesian non-negative matrix factorization for mutational signature analysis at the IMS conference in Berlin.\n[July 2024] I presented my work Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors (poster) and Compressive Bayesian non-negative matrix factorization for mutational signature analysis (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics."
-  },
-  {
-    "objectID": "temp/software.html",
-    "href": "temp/software.html",
-    "title": "Alessandro Zito",
-    "section": "",
-    "text": "Highlight\nIn my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.\n\n\nR-packages\n\n\n\n\n\n\n\n\n\n\n\nBayesANT - BAYESiAn Nonparametric Taxonomic classifier\nBayesANT is a DNA barcoding algorithm to classify DNA sequences within a hierarchical taxonomy, while allowing novel species to be discovered in the test set. See Zito, Rigon, Dunson (2023) MEE.\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPvegan - Bayesian nonparametric methods for ecologists\nBNPvegan is an R-package that implements the methods described in Zito, Rigon, Ovaskainen and Dunson (2023) JASA\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConjugateDP - random number generator for the Stirling-gamma distribution\nConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in Zito, Rigon, Dunson (2024+) arXiv\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompressiveNMF - Bayesian non-negative matrix factorization for mutational signature analysis\nThis repo contains the code to reproduce the empirical results in Zito and Miller (2024+) arXiv\nGitHub\n\n\n\n\n\n\nOther projects\n\n\n\n\n\n\n\n\n\n\n\nProximity - Pareto optimal proxy metrics\nThis repo contains the code to reproduce the empirical results in Richarson et al. (2023), arXiv\nProperty of Google LLC :)"
-  },
-  {
     "objectID": "Disclaimer/index.html",
     "href": "Disclaimer/index.html",
     "title": "Alessandro Zito",
     "section": "",
-    "text": "Opinions expressed on this Site are the author’s own in his personal capacity. They do not reflect the views of any organisation, company he is associated with."
+    "text": "Opinions expressed on this Site are the author’s own in his personal capacity. They do not reflect the views of any organisation, company he is associated with.\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Alessandro Zito",
+    "title": "Ester Alongi",
     "section": "",
-    "text": "Welcome to my website!\nI am a Postdoctoral research fellow in Biostatistics at the Harvard T.H. Chan School of Public Health, where I am supervised by Professor Jeffrey W. Miller and Professor Giovanni Parmigiani. I am also affiliated with the Data Sciences department at the Dana-Farber cancer institute.\nI obtained my Ph.D. in Statistical Science at Duke University, in North Carolina, where I worked under the supervision of Professor David Dunson within Project LIFEPLAN, an international research group whose aim is to quantify biodiversity across the globe.\nMy curriculum vitae is available here. A complete list of publications is available here.\nE-mail - azito@hsph.harvard.edu\nMy research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology."
+    "text": "Welcome to my website!\nMy name is Ester Alongi. I am a second-year PhD candidate in Statistical Science at the University of Padua, supervised by Gianmarco Altoè. I completed my Bachelor’s degree in Statistics at the University of Milano-Bicocca and my Master’s degree in Statistics at the University of Padua, under the supervision of Bruno Scarpa.\nI am currently a visiting researcher at the Dana-Farber Cancer Institute and at the Harvard T.H. Chan School of Public Health, working under Giovanni Parmigiani.\nMy research focuses on the methodological side of statistics, with current interests in replicability, Bayesian analysis, causal inference and mediation analysis, and applications to psychological and genomics research.\nE-mail — ester.alongi@phd.unipd.it"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
+    "title": "Ester Alongi",
+    "section": "",
+    "text": "Welcome to my website!\nMy name is Ester Alongi. I am a second-year PhD candidate in Statistical Science at the University of Padua, supervised by Gianmarco Altoè. I completed my Bachelor’s degree in Statistics at the University of Milano-Bicocca and my Master’s degree in Statistics at the University of Padua, under the supervision of Bruno Scarpa.\nI am currently a visiting researcher at the Dana-Farber Cancer Institute and at the Harvard T.H. Chan School of Public Health, working under Giovanni Parmigiani.\nMy research focuses on the methodological side of statistics, with current interests in replicability, Bayesian analysis, causal inference and mediation analysis, and applications to psychological and genomics research.\nE-mail — ester.alongi@phd.unipd.it"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
     "title": "Alessandro Zito",
     "section": "",
-    "text": "Welcome to my website!\nI am a Postdoctoral research fellow in Biostatistics at the Harvard T.H. Chan School of Public Health, where I am supervised by Professor Jeffrey W. Miller and Professor Giovanni Parmigiani. I am also affiliated with the Data Sciences department at the Dana-Farber cancer institute.\nI obtained my Ph.D. in Statistical Science at Duke University, in North Carolina, where I worked under the supervision of Professor David Dunson within Project LIFEPLAN, an international research group whose aim is to quantify biodiversity across the globe.\nMy curriculum vitae is available here. A complete list of publications is available here.\nE-mail - azito@hsph.harvard.edu\nMy research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology."
-  },
-  {
-    "objectID": "artwork.html",
-    "href": "artwork.html",
-    "title": "A gallery of my paitings",
-    "section": "",
-    "text": "I have been a painter since 2017, after the stimulating encounter with professional painter Guido Buganza.\nIn 2018, I have won the “Looking for Art” paiting contest, which allowed me to exibithion my paintings at Milan “La Triennale”. In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan)."
-  },
-  {
-    "objectID": "artwork.html#section",
-    "href": "artwork.html#section",
-    "title": "A gallery of my paitings",
-    "section": "2023",
-    "text": "2023"
-  },
-  {
-    "objectID": "artwork.html#actors-and-actors",
-    "href": "artwork.html#actors-and-actors",
-    "title": "A gallery of my paitings",
-    "section": "2019 - Actors and actors",
-    "text": "2019 - Actors and actors\n\n\n\n\n\n\nMarco. 15x20cm. Oil on canvas\n\n\n\n\n\n\n\nValentina. 13x18cm. Oil on canvas\n\n\n\n\n\n\n\nHelena. 15x20cm. Oil on canvas"
-  },
-  {
-    "objectID": "artwork.html#transition-to-oil",
-    "href": "artwork.html#transition-to-oil",
-    "title": "A gallery of my paitings",
-    "section": "2018 - transition to oil",
-    "text": "2018 - transition to oil\n\n\n\n\n\n\nThe musicians. 60x80cm. Oil on canvas\n\n\n\n\n\n\n\n\n\n\n\nStudy on Rembrandt. 20x25cm. Oil on canvas\n\n\n\n\n\n\n\nComposizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas\n\n\n\n\n\n\n\n\n\n\n\nA fall, a mother, a light. 40x50cm. Acrylic on canvas\n\n\n\n\n\n\n\nStudy on Rembrandt. 30x40cm. Acrylic on canvas"
-  },
-  {
-    "objectID": "artwork.html#thriumph-of-acrilyics",
-    "href": "artwork.html#thriumph-of-acrilyics",
-    "title": "A gallery of my paitings",
-    "section": "2017 - thriumph of acrilyics",
-    "text": "2017 - thriumph of acrilyics\n\n\n\n\n\n\nShouting girl. 70x70cm. Acrylic on canvas\n\n\n\n\n\n\n\nExploring girl. 90x90cm. Acrylic on canvas\n\n\n\n\n\n\n\nRejoicing girl. 70x70cm. Acrylic on canvas\n\n\n\n\n\n\n\n\n\n\n\nSailing girl. 50x70cm. Acrylic on canvas\n\n\n\n\n\n\n\nThird girl. 50x70cm. Acrylic on canvas\n\n\n\n\n\n\n\nSmoking girl. 50x70cm. Acrylic on canvas"
-  },
-  {
-    "objectID": "artwork.html#acrilyics",
-    "href": "artwork.html#acrilyics",
-    "title": "A gallery of my paitings",
-    "section": "Acrilyics",
-    "text": "Acrilyics\n\n\n\n\n\n\nA fall, a mother, a light. 40x50cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\nStudy on Rembrandt. 30x40cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nShouting girl. 70x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nExploring girl. 90x90cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nRejoicing girl. 70x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\n\n\n\n\nSailing girl. 50x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nThird girl. 50x70cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nSmoking girl. 50x70cm. Acrylic on canvas\n\n\n\n\n\n\n\n\n\n\n\nInspiration from Mirò. 40x50cm. Acrylic on canvas, 2017\n\n\n\n\n\n\n\nTime goes by. 60x80cm. Acrylic on canvas, 2018\n\n\n\n\n\n\n\nAnother inspiration from Mirò. 50x50cm. Acrylic on canvas, 2017"
-  },
-  {
-    "objectID": "artwork.html#covid-production",
-    "href": "artwork.html#covid-production",
-    "title": "A gallery of my paitings",
-    "section": "2020 - Covid production",
-    "text": "2020 - Covid production"
-  },
-  {
-    "objectID": "artwork.html#covid-production-1",
-    "href": "artwork.html#covid-production-1",
-    "title": "A gallery of my paitings",
-    "section": "2022 - Covid production",
-    "text": "2022 - Covid production"
-  },
-  {
-    "objectID": "artwork.html#covid-production-2",
-    "href": "artwork.html#covid-production-2",
-    "title": "A gallery of my paitings",
-    "section": "2021 - Covid production",
-    "text": "2021 - Covid production"
-  },
-  {
-    "objectID": "artwork.html#covid-production-3",
-    "href": "artwork.html#covid-production-3",
-    "title": "A gallery of my paitings",
-    "section": "2020 - Covid production",
-    "text": "2020 - Covid production"
-  },
-  {
-    "objectID": "artwork.html#actors-and-actors-and-family",
-    "href": "artwork.html#actors-and-actors-and-family",
-    "title": "A gallery of my paitings",
-    "section": "2019 - Actors and actors, and family",
-    "text": "2019 - Actors and actors, and family\n\n\n\n\n\n\nValentina. 90x100cm. Oil on canvas\n\n\n\n\n\n\n\nValentina. 50x60cm. Oil on canvas\n\n\n\n\n\n\n\n\n\n\n\nMarco. 15x20cm. Oil on canvas\n\n\n\n\n\n\n\nValentina. 13x18cm. Oil on canvas\n\n\n\n\n\n\n\nHelena. 15x20cm. Oil on canvas"
-  },
-  {
-    "objectID": "artwork.html#section-1",
-    "href": "artwork.html#section-1",
-    "title": "A gallery of my paitings",
-    "section": "2022",
-    "text": "2022"
-  },
-  {
-    "objectID": "artwork.html#section-2",
-    "href": "artwork.html#section-2",
-    "title": "A gallery of my paitings",
-    "section": "2021",
-    "text": "2021"
-  },
-  {
-    "objectID": "artwork.html#section-3",
-    "href": "artwork.html#section-3",
-    "title": "A gallery of my paitings",
-    "section": "2020",
-    "text": "2020"
-  },
-  {
-    "objectID": "artwork.html#monologues-actors-on-actors",
-    "href": "artwork.html#monologues-actors-on-actors",
-    "title": "A gallery of my paitings",
-    "section": "Monologues (actors on actors)",
-    "text": "Monologues (actors on actors)\nSome portraits of my actor friends. This was part of a personal exhibition back in 2019.\n\n\n\n\n\n\nValentina. 90x100cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nMarta. 50x60cm. Oil on canvas, 2019. My actual cousin!\n\n\n\n\n\n\n\n\n\n\n\nMarco. 15x20cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nValentina. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nHelena. 15x20cm. Oil on canvas, 2019"
-  },
-  {
-    "objectID": "artwork.html#early-oil-works",
-    "href": "artwork.html#early-oil-works",
-    "title": "A gallery of my paitings",
-    "section": "Early oil works",
-    "text": "Early oil works\n\n\n\n\n\n\nThe musicians. 60x80cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nUnfinished Peonies. 20x25cm. Oil on canvas, 2020\n\n\n\n\n\n\n\nComposizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas. 2018\n\n\n\n\n\n\n\n\n\n\n\nLights. 13x18cm. Oil on chalkboard\n\n\n\n\n\n\n\nBottles for a friend. 15x20cm. Oil on canvas. 2019"
-  },
-  {
-    "objectID": "artwork.html#family",
-    "href": "artwork.html#family",
-    "title": "A gallery of my paitings",
-    "section": "Family",
-    "text": "Family"
-  },
-  {
-    "objectID": "artwork.html#further-study-on-shadows",
-    "href": "artwork.html#further-study-on-shadows",
-    "title": "A gallery of my paitings",
-    "section": "Further study on shadows",
-    "text": "Further study on shadows\n\n\n\n\n\n\nThe musicians. 60x80cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nUnfinished Peonies. 20x25cm. Oil on canvas, 2020\n\n\n\n\n\n\n\nComposizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas"
-  },
-  {
-    "objectID": "artwork.html#study-of-famous-paitings",
-    "href": "artwork.html#study-of-famous-paitings",
-    "title": "A gallery of my paitings",
-    "section": "Study of famous paitings",
-    "text": "Study of famous paitings\n\n\n\n\n\n\nReproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based\n\n\n\n\n\n\n\nStudy on Tiziano - Trionfo di Bacco e Arianna. 60x80cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nStudy on Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!\n\n\n\n\n\n\n\nStudy on Lucian Freud - Boy smoking. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nStudy on Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem. 13x18cm. Oil on canvas, 2020\n\n\n\n\n\n\n\n\n\n\n\nStudy on Chardin. 30x40cm. Oil on canvas, 2018."
-  },
-  {
-    "objectID": "artwork.html#portraits-inspired-by-my-family",
-    "href": "artwork.html#portraits-inspired-by-my-family",
-    "title": "A gallery of my paitings",
-    "section": "Portraits inspired by my family",
-    "text": "Portraits inspired by my family\n\n\n\n\n\n\nLina la cicala. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nPietro di moccafava. 50x70cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nThe climber. 50x70cm. Oil on canvas, 2020"
-  },
-  {
-    "objectID": "artwork.html#some-still-life",
-    "href": "artwork.html#some-still-life",
-    "title": "A gallery of my paitings",
-    "section": "Some still-life",
-    "text": "Some still-life"
-  },
-  {
-    "objectID": "artwork.html#still-life-many-bottles",
-    "href": "artwork.html#still-life-many-bottles",
-    "title": "A gallery of my paitings",
-    "section": "still-life (many bottles)",
-    "text": "still-life (many bottles)\n\n\n\n\n\n\nBottles. 20x15cm. Oil on canvas, 2021\n\n\n\n\n\n\n\nBottles. 25x30cm. Oil on canvas, 2018\n\n\n\n\n\n\n\nBottles. 13x18cm. Oil on canvas, 2019"
-  },
-  {
-    "objectID": "artwork.html#still-lives-many-bottles",
-    "href": "artwork.html#still-lives-many-bottles",
-    "title": "A gallery of my paitings",
-    "section": "Still lives (many bottles)",
-    "text": "Still lives (many bottles)\n\n\n\n\n\n\nBottles. 20x15cm. Oil on canvas, 2021\n\n\n\n\n\n\n\nBottles. 25x30cm. Oil on canvas, 2018\n\n\n\n\n\n\n\nBottles. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\n\n\n\n\nCeramics. 18x13cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nAsparagus cooker 30x40cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nApples. 30x20cm. Oil on canvas, 2020"
-  },
-  {
-    "objectID": "artwork.html#some-random-paintings",
-    "href": "artwork.html#some-random-paintings",
-    "title": "A gallery of my paitings",
-    "section": "Some random paintings",
-    "text": "Some random paintings\n\n\n\n\n\n\nBoxeuer 15x20cm. Oil on canvas, 2022\n\n\n\n\n\n\n\nNella. 10x10cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nNella. 25x30cm. Oil on canvas, 2023\n\n\n\n\n\n\n\n\n\n\n\nVittorio’s shoes. 10x12cm. Oil on canvas, 2023\n\n\n\n\n\n\n\nTrainee and master. 13x18cm. Oil on canvas, 2020.\n\n\n\n\n\n\n\nFlowers. 13x18cm. Oil on canvas, 2020\n\n\n\n\n\n\n\n\n\n\n\nFox and violin. 20x30cm. Oil on canvas, 2020. A painting for a friend"
-  },
-  {
-    "objectID": "artwork.html#studies-of-famous-paitings",
-    "href": "artwork.html#studies-of-famous-paitings",
-    "title": "A gallery of my paitings",
-    "section": "Studies of famous paitings",
-    "text": "Studies of famous paitings\n\n\n\n\n\n\nReproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based\n\n\n\n\n\n\n\nStudy of Tiziano - Trionfo di Bacco e Arianna. 60x70cm. Oil on canvas, 2018\n\n\n\n\n\n\n\n\n\n\n\nStudy of Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!\n\n\n\n\n\n\n\nStudy of Lucian Freud - Boy smoking. 13x18cm. Oil on canvas, 2019\n\n\n\n\n\n\n\nStudy of Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem. 13x18cm. Oil on canvas, 2020\n\n\n\n\n\n\n\n\n\n\n\nStudy on Chardin. 30x40cm. Oil on canvas, 2018."
-  },
-  {
-    "objectID": "artwork.html#others-drawings-engravings",
-    "href": "artwork.html#others-drawings-engravings",
-    "title": "A gallery of my paitings",
-    "section": "Others (drawings + engravings)",
-    "text": "Others (drawings + engravings)\n\n\n\n\n\n\nBunny. 10x12cm. Drypoint on plexiglass, 2021\n\n\n\n\n\n\n\nDog. 10x12cm. Drypoint on plexiglass, 2021\n\n\n\n\n\n\n\nDurher’s hands. 25x30cm. Pencil. 2020"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Alessandro Zito",
-    "section": "News",
-    "text": "News\nI received the Savage Award in Applied Methodology! for my dissertation “Ecological Modeling via Bayesian Nonparametric Species Sampling Priors”\nI have been officially elected j-ISBA treasurer! Looking forward to help the community of young Bayesians across all continents!"
-  },
-  {
-    "objectID": "index.html#current-highlights",
-    "href": "index.html#current-highlights",
-    "title": "Alessandro Zito",
-    "section": "Current highlights",
-    "text": "Current highlights\nI received the Savage Award in Applied Methodology for my dissertation “Ecological Modeling via Bayesian Nonparametric Species Sampling Priors” :)\nI am an elected official of j-ISBA Looking forward to help the community of young Bayesians across all continents!"
+    "text": "Highlights\nIn my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.\n\n\nR-packages\n\n\n\n\n\n\n\n\n\nBayesANT - BAYESiAn Nonparametric Taxonomic classifier\nBayesANT is a DNA barcoding algorithm to classify DNA sequences within a hierarchical taxonomy, while allowing novel species to be discovered in the test set. See Zito, Rigon, Dunson (2023) MEE.\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\nBNPvegan - Bayesian nonparametric methods for ecologists\nBNPvegan is an R-package that implements the methods described in Zito, Rigon, Ovaskainen and Dunson (2023) JASA\nGitHub Tutorial\n\n\n\n\n\n\n\n\n\n\n\n\n\nConjugateDP - random number generator for the Stirling-gamma distribution\nConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in Zito, Rigon, Dunson (2024) BA\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompressiveNMF - Bayesian non-negative matrix factorization for mutational signature analysis\nThis repo contains the code to reproduce the empirical results in Zito and Miller (2024+) arXiv\nGitHub\n\n\n\n\n\n\nOther projects\n\n\n\n\n\n\n\n\n\nProximity - Pareto optimal proxy metrics\nThis repo contains the code to reproduce the empirical results in Richarson et al. (2023), arXiv\nProperty of Google LLC :)\n\n\n\n\n\n\n\n\n\n Address:  655 Huntington Ave, Boston, MA 02115, United States  Email:  azito@hsph.harvard.edu  Links:"
   }
 ]

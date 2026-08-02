@@ -6,3 +6,5 @@ temp/
 images/people_unedited
 
 *.key
+
+**/*.quarto_ipynb
