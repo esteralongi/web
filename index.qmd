@@ -18,5 +18,3 @@ My name is Ester Alongi. I am a second-year PhD candidate in Statistical Science
 I am currently a visiting researcher at the [Dana-Farber Cancer Institute](https://www.dana-farber.org/) and at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), working under [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
 
 My research focuses on the methodological side of statistics, with current interests in replicability, Bayesian analysis, causal inference and mediation analysis, and applications to psychological and genomics research.
-
-**E-mail** — ester.alongi\@phd.unipd.it
