@@ -4,4 +4,4 @@
 
 **Strumenti statistici per l'analisi di dati aziendali** \hfill Feb--Jun 2025
 M.Sc. in Statistical Sciences, University of Padova
-Supervisor: Prof.ssa Mariangela Guidolin
+Supervisor: Prof.ssa [Mariangela Guidolin](https://homes.stat.unipd.it/mariangelaguidolin/)

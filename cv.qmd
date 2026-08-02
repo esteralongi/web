@@ -73,7 +73,7 @@ In cv.qmd nella sezione Current position:
 
 ### Teaching {.central}
 
--   \[[Spring 2025]{.blue}\] — Teaching assistant, *Strumenti statistici per l'analisi di dati aziendali* (graduate). Instructor: Prof.ssa Mariangela Guidolin. University of Padova.
+-   \[[Spring 2025]{.blue}\] — Teaching assistant, *Strumenti statistici per l'analisi di dati aziendali* (graduate). Instructor: Prof.ssa [Mariangela Guidolin](https://homes.stat.unipd.it/mariangelaguidolin/). University of Padova.
 
 ---
 
