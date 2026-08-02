@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://esteralongi.github.io/web/cv.html</loc>
-    <lastmod>2026-08-02T01:39:19.047Z</lastmod>
+    <lastmod>2026-08-02T05:28:40.495Z</lastmod>
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/artwork.html</loc>
@@ -10,15 +10,19 @@
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/talks.html</loc>
-    <lastmod>2026-08-02T01:39:19.336Z</lastmod>
+    <lastmod>2026-08-02T05:26:07.826Z</lastmod>
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/research.html</loc>
-    <lastmod>2026-08-02T04:32:22.939Z</lastmod>
+    <lastmod>2026-08-02T05:21:47.319Z</lastmod>
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/colabs.html</loc>
     <lastmod>2026-08-02T01:39:19.047Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esteralongi.github.io/web/teaching.html</loc>
+    <lastmod>2026-08-02T04:36:04.473Z</lastmod>
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/Disclaimer/index.html</loc>
@@ -30,6 +34,6 @@
   </url>
   <url>
     <loc>https://esteralongi.github.io/web/software.html</loc>
-    <lastmod>2026-08-02T01:39:19.336Z</lastmod>
+    <lastmod>2026-08-02T05:26:11.569Z</lastmod>
   </url>
 </urlset>

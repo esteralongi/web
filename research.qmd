@@ -25,23 +25,6 @@ In E. di Bella et al. (Eds.), *Statistics for Innovation II* (pp. 32–38). Spri
 
 #### [Manuscripts in preparation]{.darkred} {.central}
 
-1. [**Alongi, E.**]{style="text-decoration: underline;"} et al. (2026+).
-**Multi-Study Mediation Analysis: Identifiability, Replicability, and Unmeasured Confounding.**
+1. [**Alongi, E.**]{style="text-decoration: underline;"}, Gianmarco Altoè, Giovanni Parmigiani (2026+).
+**The Quantification of Replicability**
 
----
-
-## Talks and posters {.central}
-
-- **[Talk]** *Multi-Study Mediation Analysis.* Joint Statistical Meetings (JSM 2026), Boston, MA, August 2026.
-
-- **[Talk]** *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets.*
-Society for the Improvement of Psychological Science (SIPS 2026), Washington D.C., June 2026.
-
-- **[Talk]** *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets.*
-Psicostat, Padova, April 2026.
-
-- **[Poster]** *Validating Causal Mechanisms through Replicability: A Unified Bayesian Framework for Mediation Analysis.*
-American Causal Inference Conference (ACIC 2026), Salt Lake City, UT, May 2026.
-
-- **[Talk]** *Surveillance of fraudulent activities through dynamic networks.*
-53rd Scientific Meeting of the Italian Statistical Society (SIS 2025), Genova, June 2025.

@@ -4,7 +4,7 @@ In my research, I work towards having easy-to-use software that can be useful to
 
 ### R-packages
 
-::: {layout="[25, 0, 75]"}
+:::::: {layout="[25, 0, 75]"}
 ::: {#second-column}
 [![](images/software/BayesANT.jpeg)](https://alessandrozito.github.io/BayesANT/vignette.html)
 :::
@@ -19,11 +19,11 @@ In my research, I work towards having easy-to-use software that can be useful to
 
 [GitHub](https://github.com/alessandrozito/BayesANT){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="bayesant_github"} [Tutorial](https://alessandrozito.github.io/BayesANT/vignette.html){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="bayesant_tutorial"}
 :::
-:::
+::::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[25, 0, 75]"}
+:::::: {layout="[25, 0, 75]"}
 <div>
 
 [![](images/software/BNPvegan.jpeg)](https://alessandrozito.github.io/BNPvegan/vignette.html)
@@ -43,11 +43,11 @@ In my research, I work towards having easy-to-use software that can be useful to
 [GitHub](https://github.com/alessandrozito/BNPvegan){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="bnpvegan_github"} [Tutorial](https://alessandrozito.github.io/BNPvegan/vignette.html){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="bnpvegan_tutorial"}
 
 </div>
-:::
+::::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[25, 0, 75]"}
+:::::: {layout="[25, 0, 75]"}
 <div>
 
 [![](images/software/ConjugateDP.jpeg)](https://github.com/alessandrozito/ConjugateDP)
@@ -62,16 +62,16 @@ In my research, I work towards having easy-to-use software that can be useful to
 
 [ConjugateDP - random number generator for the Stirling-gamma distribution]{.blue}
 
-[ConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in [Zito, Rigon, Dunson (2024)  BA](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full)]{style="font-size: 80%;"}
+[ConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in [Zito, Rigon, Dunson (2024) BA](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full)]{style="font-size: 80%;"}
 
 [GitHub](https://github.com/alessandrozito/ConjugateDP){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="ConjugateDP_github"}
 
 </div>
-:::
+::::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[25, 0, 75]"}
+:::::: {layout="[25, 0, 75]"}
 <div>
 
 [![](images/software/CompNMF.jpeg)](https://github.com/alessandrozito/CompressiveNMF)
@@ -91,13 +91,13 @@ In my research, I work towards having easy-to-use software that can be useful to
 [GitHub](https://github.com/alessandrozito/CompressiveNMF){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="CompNMF_github"}
 
 </div>
-:::
+::::::
 
 ------------------------------------------------------------------------
 
 ### Other projects
 
-::: {layout="[25, 0, 75]"}
+:::::: {layout="[25, 0, 75]"}
 <div>
 
 [![](images/software/Proximity.jpeg)](https://arxiv.org/abs/2307.01000)
@@ -117,6 +117,6 @@ In my research, I work towards having easy-to-use software that can be useful to
 Property of Google LLC :)
 
 </div>
-:::
+::::::
 
 ------------------------------------------------------------------------

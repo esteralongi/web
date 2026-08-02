@@ -18,6 +18,8 @@ website:
         text: Research
       - href: talks.qmd
         text: Talks
+      - href: teaching.qmd
+        text: Teaching
   body-footer: |
       <center>
       <br>
