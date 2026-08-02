@@ -1,16 +1,14 @@
 project:
   type: website
   output-dir: docs
-  title: "Alessandro Zito"
-
+  title: "Ester Alongi"
 
 website:
-  title: "Alessandro Zito"
-  favicon: images/painting.jpeg
-  description: "Alessandro Zito is a statistician and a data scientist working on cancer genomics and ecology."
+  title: "Ester Alongi"
+  favicon: images/Photo Ester Alongi.jpg
+  description: "Ester Alongi is a statistician working on replicability and mediation analysis applied to psychology and genomics research."
   navbar: 
-    title: Ale Zito
-    logo: images/painting.jpeg
+    title: Ester Alongi
     left:
       - href: index.qmd
         text: Home
@@ -18,52 +16,24 @@ website:
         text: CV
       - href: research.qmd
         text: Research
-      - href: software.qmd
-        text: Software
       - href: talks.qmd
         text: Talks
-      - href: colabs.qmd
-        text: Collaborators
-    right:    
-      - href: artwork.qmd
-        text: alezitoart
-    google-analytics: "G-BT2P82WGQJ"
-    site-url: https://alessandrozito.github.io/web/
   body-footer: |
       <center>
       <br>
-      **Address**: <br>
-      655 Huntington Ave, Boston, MA 02115, United States <br>
       **Email**: <br>
-      [azito@hsph.harvard.edu](mailto: azito@hsph.harvard.edu) <br>
+      [ester.alongi@phd.unipd.it](mailto:ester.alongi@phd.unipd.it) <br>
       **Links**:<br>
-      [{{< ai google-scholar size=31px >}}](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en) &nbsp; 
-      [{{< iconify fa6-brands github size=30px >}}](https://github.com/alessandrozito) &nbsp; 
-      [{{< iconify fa6-brands linkedin size=30px >}}](https://www.linkedin.com/in/alessandro-zito-92b250153/) &nbsp; 
-      [{{< ai researchgate size=31px >}}](https://www.researchgate.net/profile/Alessandro-Zito-7) &nbsp; 
-      [{{< ai orcid size=31px >}}](https://orcid.org/0000-0001-8515-6503) 
+      [{{< iconify fa6-brands github size=30px >}}](https://github.com/esteralongi)
       </center>
   page-footer:
-    left: "© 2024 By Alessandro Zito. All rights reserved."
+    left: "© 2026 Ester Alongi. All rights reserved."
     right: 
       - icon: envelope-at
-        text: "azito@hsph.harvard.edu"
-        href: "mailto: azito@hsph.harvard.edu"
-      
-include-in-header: 
-  - text: |
-      <meta name="google-site-verification" content="8VlySRWcAYNJqMvbPEh8XS0Dl_QPeEuigWeOuSLnGMg" />    
-  - text: |
-      <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-BT2P82WGQJ"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        text: "ester.alongi@phd.unipd.it"
+        href: "mailto:ester.alongi@phd.unipd.it"
+  site-url: https://esteralongi.github.io/web/
 
-        gtag('config', 'G-BT2P82WGQJ');
-      </script>
-      
 format:
   html:
     theme: [cosmo, styles.css]
@@ -77,10 +47,5 @@ format:
       sidebar-width: 200px
       body-width: 1000px
       margin-width: 200px
-    favicon: images/painting.jpeg
-
-
 
 editor: visual
-
-
