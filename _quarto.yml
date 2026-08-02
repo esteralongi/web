@@ -37,8 +37,6 @@ website:
         text: "ester.alongi@phd.unipd.it"
         href: "mailto:ester.alongi@phd.unipd.it"
   site-url: https://esteralongi.github.io/web/
-website:
-  title: "Ester Alongi"
   google-analytics: "G-RHNPEDK1ZL"
 
 format:
