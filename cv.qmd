@@ -12,7 +12,9 @@
 [University of Padova]{.blue}, Department of Statistical Sciences, Padova, Italy.
 
 -   Ph.D. Candidate in Statistical Sciences. *November 2024 -- current*
--   Supervisor: Gianmarco Altoè
+-   Supervisor: [Gianmarco Altoè](https://www.dpss.unipd.it/en/gianmarco-altoe)
+
+In cv.qmd nella sezione Current position:
 :::
 ::::::
 
@@ -47,7 +49,7 @@
 -   Master's degree in Statistical Sciences. *September 2022 -- September 2024*
 -   Graduation grade: 110/110 with honors
 -   Thesis: *Surveillance of fraudulent activities via dynamic networks*
--   Supervisor: Prof. Bruno Scarpa
+-   Supervisor: [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/)
 :::
 ::::::
 
@@ -63,7 +65,7 @@
 -   Bachelor's degree in Statistical and Economic Sciences. *October 2019 -- September 2022*
 -   Graduation grade: 110/110 with honors
 -   Thesis: *Classification and similarity analysis of occupations: the case of Bicocca degree courses*
--   Supervisor: Prof. Mario Mezzanzanica
+-   Supervisor: [Mario Mezzanzanica](https://www.unimib.it/mario-mezzanzanica)
 :::
 ::::::
 

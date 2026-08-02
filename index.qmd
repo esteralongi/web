@@ -23,7 +23,7 @@ about:
 
 Welcome to my website!
 
-My name is Ester Alongi. I am a second-year PhD candidate in Statistical Science at the [University of Padua](https://www.unipd.it/), supervised by [Gianmarco Altoè](https://www.dpss.unipd.it/altoe-gianmarco/home). I completed my Bachelor's degree in Statistics at the University of Milano-Bicocca and my Master's degree in Statistics at the University of Padua, under the supervision of Bruno Scarpa.
+My name is Ester Alongi. I am a second-year PhD candidate in Statistical Science at the [University of Padua](https://www.unipd.it/), supervised by [Gianmarco Altoè](https://www.dpss.unipd.it/en/gianmarco-altoe). I completed my Bachelor's degree in Statistics at the University of Milano-Bicocca and my Master's degree in Statistics at the University of Padua, under the supervision of Bruno Scarpa.
 
 I am currently a visiting researcher at the [Dana-Farber Cancer Institute](https://www.dana-farber.org/) and at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), working under [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
 
