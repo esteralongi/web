@@ -4,211 +4,152 @@ title: "A gallery of my paitings"
 
 I have been a painter since 2017, after the stimulating encounter with professional painter [Guido Buganza](https://www.guidobuganza.com/).
 
-In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
-
-
-
+In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan).
 
 ## Monologues (actors on actors)
 
 Some portraits of my actor friends. This was part of a personal exhibition back in 2019.
 
-::: {#figure-musicanti layout-ncol=2}
-
+::: {#figure-musicanti layout-ncol="2"}
 ![Valentina. 90x100cm. Oil on canvas, 2019](images/alezitoart/valentina2.jpg){width="30em"}
 
 ![Marta. 50x60cm. Oil on canvas, 2019. My actual cousin!](images/alezitoart/marta.jpg){width="25em"}
-
 :::
 
-::: {#figure-actors layout-ncol=3 layout-valign="bottom"}
-
+::: {#figure-actors layout-ncol="3" layout-valign="bottom"}
 ![Marco. 15x20cm. Oil on canvas, 2019](images/alezitoart/marco.jpg){width="16em"}
 
 ![Valentina. 13x18cm. Oil on canvas, 2019](images/alezitoart/valentina.jpg){width="14em"}
 
 ![Helena. 15x20cm. Oil on canvas, 2019](images/alezitoart/helena.jpg){width="16em"}
-
 :::
 
-## Portraits inspired by my family 
+## Portraits inspired by my family
 
-::: {#figure-musicanti layout-ncol=3}
-
+::: {#figure-musicanti layout-ncol="3"}
 ![Lina la cicala. 13x18cm. Oil on canvas, 2019](images/alezitoart/nonna.jpg){width="15em"}
 
 ![Pietro di moccafava. 50x70cm. Oil on canvas, 2019](images/alezitoart/nonno.jpg){width="25em"}
 
 ![The climber. 50x70cm. Oil on canvas, 2020](images/alezitoart/scalatore.jpg){width="25em"}
-
 :::
-
 
 ## Still lives (many bottles)
 
-::: {#figure-bottles layout-ncol=3 layout-valign="bottom"}
-
+::: {#figure-bottles layout-ncol="3" layout-valign="bottom"}
 ![Bottles. 20x15cm. Oil on canvas, 2021](images/alezitoart/bottles.jpg){width="13em"}
 
 ![Bottles. 25x30cm. Oil on canvas, 2018](images/alezitoart/bottles3.jpg){width="20em"}
- 
 
 ![Bottles. 13x18cm. Oil on canvas, 2019](images/alezitoart/bottles2.jpg){width="13em"}
-
 :::
 
-::: {#figure-bottles layout-ncol=3 layout-valign="top"}
-
+::: {#figure-bottles layout-ncol="3" layout-valign="top"}
 ![Ceramics. 18x13cm. Oil on canvas, 2019](images/alezitoart/ceramics.jpg){width="13em"}
 
 ![Asparagus cooker 30x40cm. Oil on canvas, 2023](images/alezitoart/asparagus_cooker.jpg){width="17em"}
 
 ![Apples. 30x20cm. Oil on canvas, 2020](images/alezitoart/apples.jpg){width="13em"}
-
 :::
 
-## Some random paintings 
+## Some random paintings
 
-
-::: {#figure-bottles layout-ncol=3 layout-valign="center"}
-
+::: {#figure-bottles layout-ncol="3" layout-valign="center"}
 ![Boxeuer 15x20cm. Oil on canvas, 2022](images/alezitoart/boxeuer.jpg){width="20em"}
 
 ![Nella. 10x10cm. Oil on canvas, 2023](images/alezitoart/Nella_red.jpg){width="12em"}
 
 ![Nella. 25x30cm. Oil on canvas, 2023](images/alezitoart/Nella_leaves.jpg){width="20em"}
-
 :::
 
-
-::: {#figure-bottles layout-ncol=3 layout-valign="top"}
- 
+::: {#figure-bottles layout-ncol="3" layout-valign="top"}
 ![Vittorio's shoes. 10x12cm. Oil on canvas, 2023](images/alezitoart/Vittorio_shoes.jpg){width="12em"}
 
 ![Trainee and master. 13x18cm. Oil on canvas, 2020.](images/alezitoart/judo.jpg){width="20em"}
 
 ![Flowers. 13x18cm. Oil on canvas, 2020](images/alezitoart/flowers.jpg){width="11.5em"}
- 
 :::
 
-
-::: {#figure-bottles layout-ncol=1 layout-valign="top"}
-
+::: {#figure-bottles layout-ncol="1" layout-valign="top"}
 ![Fox and violin. 20x30cm. Oil on canvas, 2020. A painting for a friend](images/alezitoart/Fox_violin.jpg){width="28em"}
-
 :::
-
 
 ## Early oil works
 
-::: {#figure-musicanti layout-ncol=1}
-
+::: {#figure-musicanti layout-ncol="1"}
 ![The musicians. 60x80cm. Oil on canvas, 2018](images/alezitoart/le_musicanti.jpg){width="30em"}
-
 :::
 
-::: {#figure-others layout-ncol=2 layout-valign="bottom"}
-
+::: {#figure-others layout-ncol="2" layout-valign="bottom"}
 ![Unfinished Peonies. 20x25cm. Oil on canvas, 2020](images/alezitoart/unfinished_peonies.jpg){width="15em"}
 
 ![Composizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas. 2018](images/alezitoart/david.jpg){width="22em"}
-
 :::
 
-::: {#figure-3 layout-ncol=2 layout-valign="bottom"}
-
+::: {#figure-3 layout-ncol="2" layout-valign="bottom"}
 ![Lights. 13x18cm. Oil on chalkboard](images/alezitoart/candela.jpg){width="22em"}
 
 ![Bottles for a friend. 15x20cm. Oil on canvas. 2019](images/alezitoart/bottiglie_vincenzo.jpg){width="12em"}
-
 :::
 
 ## Studies of famous paitings
 
-::: {#figure-others layout-ncol=2 layout-valign="top"}
-
+::: {#figure-others layout-ncol="2" layout-valign="top"}
 ![Reproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based](images/alezitoart/alezitoart.jpg){width="25em"}
 
 ![Study of Tiziano - Trionfo di Bacco e Arianna. 60x70cm. Oil on canvas, 2018](images/alezitoart/tiziano.jpg){width="25em"}
-
 :::
 
-::: {#figure-others layout-ncol=3 layout-valign="top"}
-
+::: {#figure-others layout-ncol="3" layout-valign="top"}
 ![Study of Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!](images/alezitoart/rembrandt.jpg){width="15em"}
 
 ![Study of Lucian Freud - Boy smoking. 13x18cm. Oil on canvas, 2019](images/alezitoart/freud.jpg){width="15em"}
 
-
 ![Study of Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem. 13x18cm. Oil on canvas, 2020](images/alezitoart/Jerusalem_rembrandt.jpg){width="15em"}
-
 :::
 
-
-:::{#figure-others layout-ncol=1 layout-valign="bottom"}
-
+::: {#figure-others layout-ncol="1" layout-valign="bottom"}
 ![Study on Chardin. 30x40cm. Oil on canvas, 2018.](images/alezitoart/chardin.jpg){width="20em"}
 :::
 
-
 ## Acrilyics
 
-::: {#figure-lights layout-ncol=2}
-
+::: {#figure-lights layout-ncol="2"}
 ![A fall, a mother, a light. 40x50cm. Acrylic on canvas, 2018](images/alezitoart/fall_mother_light.jpg){width="18em"}
 
 ![Study on Rembrandt. 30x40cm. Acrylic on canvas, 2018](images/alezitoart/the_bet.jpg){width="18em"}
-
 :::
 
-
-
-::: {#figure-girls layout-ncol=3}
-
+::: {#figure-girls layout-ncol="3"}
 ![Shouting girl. 70x70cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza2.jpeg){width="15em"}
 
 ![Exploring girl. 90x90cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza3.jpeg){width="18em"}
 
 ![Rejoicing girl. 70x70cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza1.jpeg){width="15em"}
-
 :::
 
-
-::: {#triptic-girls layout-ncol=3}
-
+::: {#triptic-girls layout-ncol="3"}
 ![Sailing girl. 50x70cm. Acrylic on canvas, 2017](images/alezitoart/sailing_girl.jpg){width="18em"}
 
 ![Third girl. 50x70cm. Acrylic on canvas, 2017](images/alezitoart/third_girl.jpg){width="18em"}
 
-
 ![Smoking girl. 50x70cm. Acrylic on canvas](images/alezitoart/smoking_girl.jpg){width="18em"}
 :::
 
-::: {#other-acrylics layout-ncol=3}
-
+::: {#other-acrylics layout-ncol="3"}
 ![Inspiration from Mirò. 40x50cm. Acrylic on canvas, 2017](images/alezitoart/miro-type.jpg){width="12em"}
 
 ![Time goes by. 60x80cm. Acrylic on canvas, 2018](images/alezitoart/time.jpg){width="23em"}
 
 ![Another inspiration from Mirò. 50x50cm. Acrylic on canvas, 2017](images/alezitoart/miro-type2.jpg){width="12em"}
-
 :::
 
 ## Others (drawings + engravings)
 
-::: {#other-acrylics layout-ncol=3}
-
+::: {#other-acrylics layout-ncol="3"}
 ![Bunny. 10x12cm. Drypoint on plexiglass, 2021](images/alezitoart/bunny.jpg){width="12em"}
 
 ![Dog. 10x12cm. Drypoint on plexiglass, 2021](images/alezitoart/jad.jpg){width="14em"}
 
-
 ![Durher's hands. 25x30cm. Pencil. 2020](images/alezitoart/durer_hands.jpg){width="12em"}
-
 :::
-
-
-
-
-
-
