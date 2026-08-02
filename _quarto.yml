@@ -23,6 +23,8 @@ website:
     <br>
     [{{< iconify fa6-brands github size=30px >}}](https://github.com/esteralongi)
     [{{< iconify fa6-brands linkedin size=30px >}}](https://www.linkedin.com/in/ester-alongi-4b968815b/)
+    [{{< iconify fa6-brands orcid size=30px >}}](https://orcid.org/0009-0002-3946-506X)
+    [{{< iconify fa6-brands researchgate size=30px >}}](https://www.researchgate.net/profile/Ester-Alongi)
     [{{< iconify fa6-brands envelope size=30px >}}](mailto:ester.alongi@phd.unipd.it)
     </center>
   page-footer:
