@@ -11,6 +11,9 @@ about:
     - icon: github
       text: "GitHub"
       href: https://github.com/esteralongi
+    - icon: linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/ester-alongi-4b968815b/
     - icon: envelope-at
       text: "Email"
       href: "mailto:ester.alongi@phd.unipd.it"
