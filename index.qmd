@@ -7,16 +7,6 @@ about:
   image-width: 20em
   image: images/Photo Ester Alongi.jpg
   image-shape: round
-  links:
-    - icon: github
-      text: "GitHub"
-      href: https://github.com/esteralongi
-    - icon: linkedin
-      text: "LinkedIn"
-      href: https://www.linkedin.com/in/ester-alongi-4b968815b/
-    - icon: envelope-at
-      text: "Email"
-      href: "mailto:ester.alongi@phd.unipd.it"
 ---
 
 ## About me
