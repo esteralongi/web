@@ -8,7 +8,6 @@ about:
   image: images/Photo Ester Alongi.jpg
   image-shape: round
 ---
-<div style="background-image: url('images/boston.jpg'); background-size: cover; background-position: center; height: 250px; border-radius: 10px; margin-bottom: 30px;"></div>
 
 ## About me
 
