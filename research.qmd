@@ -34,8 +34,11 @@ In E. di Bella et al. (Eds.), *Statistics for Innovation II* (pp. 32–38). Spri
 
 - **[Talk]** *Multi-Study Mediation Analysis.* Joint Statistical Meetings (JSM 2026), Boston, MA, August 2026.
 
-- **[Talk]** *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets.* 
+- **[Talk]** *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets.*
 Society for the Improvement of Psychological Science (SIPS 2026), Washington D.C., June 2026.
+
+- **[Talk]** *Rethinking Replicability: a Unified Bayesian Framework for Multiple Facets.*
+Psicostat, Padova, April 2026.
 
 - **[Poster]** *Validating Causal Mechanisms through Replicability: A Unified Bayesian Framework for Mediation Analysis.*
 American Causal Inference Conference (ACIC 2026), Salt Lake City, UT, May 2026.
