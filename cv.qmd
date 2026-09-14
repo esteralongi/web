@@ -13,8 +13,6 @@
 
 -   Ph.D. Candidate in Statistical Sciences. *November 2024 -- current*
 -   Supervisor: [Gianmarco Altoè](https://www.dpss.unipd.it/en/gianmarco-altoe)
-
-In cv.qmd nella sezione Current position:
 :::
 ::::::
 
