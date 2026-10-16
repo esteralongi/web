@@ -15,6 +15,7 @@ and applications to psychological and genomics research.
 2. [**Alongi, E.**]{style="text-decoration: underline;"}, Gianmarco Altoè, Giovanni Parmigiani (2026).
 **The Quantification of Replicability**
 [\[arXiv\]](https://arxiv.org/abs/2610.14407)
+
 ---
 
 #### [Articles in refereed journals]{.blue} {.central}
