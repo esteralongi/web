@@ -12,6 +12,9 @@ and applications to psychological and genomics research.
 **Leave-one-out testing for node-level differences in Gaussian graphical models.**
 [\[arXiv\]](https://arxiv.org/abs/2601.15896)
 
+2. [**Alongi, E.**]{style="text-decoration: underline;"}, Gianmarco Altoè, Giovanni Parmigiani (2026).
+**The Quantification of Replicability**
+[\[arXiv\]](https://arxiv.org/abs/2610.14407)
 ---
 
 #### [Articles in refereed journals]{.blue} {.central}
@@ -26,5 +29,6 @@ In E. di Bella et al. (Eds.), *Statistics for Innovation II* (pp. 32–38). Spri
 #### [Manuscripts in preparation]{.darkred} {.central}
 
 1. [**Alongi, E.**]{style="text-decoration: underline;"}, Gianmarco Altoè, Giovanni Parmigiani (2026+).
-**The Quantification of Replicability**
+**Identifiability of the Mediator–Outcome Residual Correlation in Causal Mediation**
+
 

@@ -2,6 +2,12 @@
 
 [2026]{.blue}
 
+**AIP -- Experimental Section XXXII Conference**, Venice, Italy, September — *Toward Robust Replicability: Modern Perspectives and Methods* — [Symposium]{.ggreen}
+
+Accepted symposium presentation. Organizer: M. Calderan.  
+Speakers: E. Alongi, S. Garofalo, M. Calderan, A. Andreella.  
+Moderator: M. O. Epifania.
+
 **JSM 2026**, Boston, MA, August — *Multi-Study Mediation Analysis* — [Contributed talk]{.gyellow}
 
 ---
